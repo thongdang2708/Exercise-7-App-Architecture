@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">e</string>
+    <string name="BMI">Body Mass Index</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="Height">Height</string>
+    <string name="Height1">Height</string>
+    <string name="result">Your Body Mass Index is: %s</string>
+</resources>
